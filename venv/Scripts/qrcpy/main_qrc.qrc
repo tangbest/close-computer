@@ -1,0 +1,7 @@
+<RCC>
+  <qresource>
+    <file>../res/icon.png</file>
+    <file>../res/style.qss</file>
+    <file>../res/bg1.jpg</file>
+  </qresource>
+</RCC>
